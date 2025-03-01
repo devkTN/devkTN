@@ -1,5 +1,39 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal portfolio website – built with Next.js, Tailwind CSS & Framer Motion.<br>🌱 I’m currently learning Vue.js, Ansible & improving my UI/UX skills.<br>💬 Ask me about web development, modern UI/UX design & frontend performance optimization.<br>⚡ Fun fact: My dark mode toggle is smoother than my sleep schedule.
+```
+const nico = {
+    code: ["JavaScript", "Python"],
+    askMeAbout: ["web dev", "UI/UX", "frontend performance", "automation", "cloud tech"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Vue.js"],
+            css: ["Tailwind", "Sass"],
+            uiLibraries: ["Framer Motion", "Radix UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["FastAPI"],
+        },
+        devOps: ["Docker", "CI/CD", "Ansible", "GitHub Actions"],
+        cloudServices: {
+            firebase: ["Auth", "Firestore", "Functions", "Storage"],
+        },
+        databases: ["Firestore", "SQLite", "MariaDB"],
+        misc: ["REST APIs", "WebSockets", "Markdown Rendering", "Cloud Functions"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["monolithic", "serverless"],
+        devOps: ["Infrastructure as Code (IaC)", "Automation"],
+        databases: ["Relational", "NoSQL"],
+    },
+    currentFocus: "Building a modern and interactive portfolio with Next.js & Framer Motion",
+    funFact: "My dark mode toggle works better than my sleep schedule.",
+};
+```
+
+<p align="center"> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/devkTN?style=for-the-badge&logo=github&labelColor=171717&color=999999">
+</p>
 
 # 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=ffffff&labelColor=171717) 
@@ -19,13 +53,15 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/am2zdGxQHH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.ktn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kTN_cs) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devkTN&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=devkTN&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=devkTN&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devkTN&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devkTN&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=%235865F2&labelColor=%23171717)](https://discord.gg/am2zdGxQHH)
+[![Instagram](https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=%23FF0069&labelColor=%23171717)](https://instagram.com/dev.ktn)
+[![X](https://img.shields.io/badge/profile-%23000000?style=for-the-badge&logo=x&logoColor=%23ffffff&labelColor=%23171717)](https://x.com/kTN_cs)
