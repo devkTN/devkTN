@@ -62,6 +62,7 @@ const nico = {
 ![](https://github-contributor-stats.vercel.app/api?username=devkTN&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=%235865F2&labelColor=%23171717)](https://discord.gg/am2zdGxQHH)
 [![Instagram](https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=%23FF0069&labelColor=%23171717)](https://instagram.com/dev.ktn)
 [![X](https://img.shields.io/badge/profile-%23000000?style=for-the-badge&logo=x&logoColor=%23ffffff&labelColor=%23171717)](https://x.com/kTN_cs)
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=%23FF4500&labelColor=171717)](https://www.reddit.com/user/kTNdev/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=%235865F2&labelColor=%23171717)](https://discord.gg/am2zdGxQHH)
